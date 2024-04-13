@@ -1,4 +1,5 @@
 # Prueba Conflicto
 ## UC
 ### Lorenzo Masgo
-#### Contrucción de Software
+EAP: Ingenieria de Sistemas e Informática
+Contrucción de Software
